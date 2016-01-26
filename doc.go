@@ -19,7 +19,7 @@
 // THE SOFTWARE.
 
 /*
-Haven is a collection of safe template functions for use with Go's
+Package haven is a collection of safe template functions for use with Go's
 text/template package. "Safe" refers to safe execution on the host system.
 These functions provide no access to the host filesystem, resources,
 environment variables, etc.

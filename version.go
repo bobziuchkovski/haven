@@ -20,6 +20,7 @@
 
 package haven
 
+// Version records the version of the haven package
 var Version = struct {
 	Major int
 	Minor int

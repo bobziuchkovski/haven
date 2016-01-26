@@ -497,7 +497,7 @@ func TestMatches(t *testing.T) {
 		t.Errorf("Matches encountered unexpected error: %s.  Operand: %s", err, operand)
 	}
 	if result != expected {
-		t.Errorf("Matches result incorrect.  Operand: %s, Pattern: %s, Expected: %d, Received: %d", operand, pattern, expected, result)
+		t.Errorf("Matches result incorrect.  Operand: %s, Pattern: %s, Expected: %t, Received: %t", operand, pattern, expected, result)
 	}
 }
 

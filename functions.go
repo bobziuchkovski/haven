@@ -34,6 +34,8 @@ import (
 
 var pseudo = rand.New(rand.NewSource(time.Now().UnixNano()))
 
+// FuncMap is a map of all functions exported by haven.  It is meant for use with
+// ext/template.Template.Funcs()
 var FuncMap = map[string]interface{}{
 	"Abs":          Abs,
 	"Add":          Add,
@@ -106,7 +108,7 @@ func Contains(substr, operand string) bool { return strings.Contains(operand, su
 // ContainsAny uses strings.Contains to check if any of chars are part of operand.
 func ContainsAny(chars, operand string) bool { return strings.ContainsAny(operand, chars) }
 
-// Count uses strings.Count to return the number of occurences of str in operand.
+// Count uses strings.Count to return the number of occurrences of str in operand.
 func Count(str, operand string) int { return strings.Count(operand, str) }
 
 // Fields uses strings.Fields to split operand on whitespace.
@@ -337,7 +339,7 @@ func Union(a, operand []string) []string {
 	}
 	union := make([]string, len(uniq))
 	i := 0
-	for k, _ := range uniq {
+	for k := range uniq {
 		union[i] = k
 		i++
 	}
