@@ -569,7 +569,7 @@ func TestParseTime(t *testing.T) {
 }
 
 func TestParseURL(t *testing.T) {
-	operand, scheme, host, path := "https://github.com/ziuchkovski/haven", "https", "github.com", "/ziuchkovski/haven"
+	operand, scheme, host, path := "https://github.com/bobziuchkovski/haven", "https", "github.com", "/bobziuchkovski/haven"
 	result, err := ParseURL(operand)
 	if err != nil {
 		t.Errorf("ParseURL encountered unexpected error: %s.  Operand: %s", err, operand)

@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.org/ziuchkovski/haven.svg?branch=master)](https://travis-ci.org/ziuchkovski/haven)
-[![Coverage](http://gocover.io/_badge/github.com/ziuchkovski/haven?2)](http://gocover.io/github.com/ziuchkovski/haven)
-[![Report Card](http://goreportcard.com/badge/ziuchkovski/haven)](http://goreportcard.com/report/ziuchkovski/haven)
-[![GoDoc](https://godoc.org/github.com/ziuchkovski/haven?status.svg)](https://godoc.org/github.com/ziuchkovski/haven)
+[![Build Status](https://travis-ci.org/bobziuchkovski/haven.svg?branch=master)](https://travis-ci.org/bobziuchkovski/haven)
+[![Coverage](http://gocover.io/_badge/github.com/bobziuchkovski/haven?1)](http://gocover.io/github.com/bobziuchkovski/haven)
+[![Report Card](http://goreportcard.com/badge/bobziuchkovski/haven)](http://goreportcard.com/report/bobziuchkovski/haven)
+[![GoDoc](https://godoc.org/github.com/bobziuchkovski/haven?status.svg)](https://godoc.org/github.com/bobziuchkovski/haven)
 
 # Haven
 
@@ -23,7 +23,7 @@ Minor breaking changes may occur prior to the 1.0 release.  After the 1.0 releas
 
 ## Function By Category
 
-Please see the [godocs](https://godoc.org/github.com/ziuchkovski/haven) for usage details.
+Please see the [godocs](https://godoc.org/github.com/bobziuchkovski/haven) for usage details.
 
 ### String and String Slice Manipulation
 
@@ -53,7 +53,7 @@ Abs, Add, Subtract, Divide, Modulo, Multiply, Min, Max
 
 ## Authors
 
-Bob Ziuchkovski (@ziuchkovski)
+Bob Ziuchkovski (@bobziuchkovski)
 
 ## License (MIT)
 
