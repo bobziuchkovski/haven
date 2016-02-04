@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/ziuchkovski/haven.svg?branch=master)](https://travis-ci.org/ziuchkovski/haven)
-[![Coverage](http://gocover.io/_badge/github.com/ziuchkovski/haven?1)](http://gocover.io/github.com/ziuchkovski/haven)
+[![Coverage](http://gocover.io/_badge/github.com/ziuchkovski/haven?2)](http://gocover.io/github.com/ziuchkovski/haven)
 [![Report Card](http://goreportcard.com/badge/ziuchkovski/haven)](http://goreportcard.com/report/ziuchkovski/haven)
 [![GoDoc](https://godoc.org/github.com/ziuchkovski/haven?status.svg)](https://godoc.org/github.com/ziuchkovski/haven)
 
