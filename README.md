@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/bobziuchkovski/haven.svg?branch=master)](https://travis-ci.org/bobziuchkovski/haven)
-[![Coverage](http://gocover.io/_badge/github.com/bobziuchkovski/haven?1)](http://gocover.io/github.com/bobziuchkovski/haven)
+[![Coverage](https://gocover.io/_badge/github.com/bobziuchkovski/haven?1)](https://gocover.io/github.com/bobziuchkovski/haven)
 [![Report Card](http://goreportcard.com/badge/bobziuchkovski/haven)](http://goreportcard.com/report/bobziuchkovski/haven)
 [![GoDoc](https://godoc.org/github.com/bobziuchkovski/haven?status.svg)](https://godoc.org/github.com/bobziuchkovski/haven)
 
